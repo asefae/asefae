@@ -148,7 +148,7 @@ Practical networking labs created with Cisco Packet Tracer.
 ## 📫 Contact
 
 <p>
-  <a href="https://github.com/igorle3132-rgb">
+  <a href="https://github.com/asefae">
     <img src="https://img.shields.io/badge/GitHub-igorle3132--rgb-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
